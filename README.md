@@ -59,7 +59,7 @@ unisex character design
 
 warm, rural-inspired charm
 
-transparent PNG assets
+transparent webp assets
 
 enough visual spacing for easy cropping and reuse
 
@@ -75,10 +75,10 @@ These reminders are part of the experience because emotional safety matters just
 Repository Structure
 live-together-chat-avatars/
 ├── avatars/
-│   ├── whimsy.png
-│   ├── cheery.png
-│   ├── mellow.png
-│   ├── dreamy.png
+│   ├── whimsy.webp
+│   ├── cheery.webp
+│   ├── mellow.webp
+│   ├── dreamy.webp
 │   └── ...
 └── README.md
 File Naming
@@ -86,10 +86,10 @@ Use lowercase English filenames without spaces.
 
 Examples:
 
-wonder.png
-easygoing.png
-thoughtful.png
-sunny.png
+wonder.webp
+easygoing.webp
+thoughtful.webp
+sunny.webp
 This keeps the files easy to reference from JavaScript, CSS, or other web components.
 
 A small design principle
